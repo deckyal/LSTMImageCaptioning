@@ -1,5 +1,5 @@
 # LSTMImageCaptioning
-Improved Image Captioning Based on the Google Image Captioning and Sequence to Sequence Attention
+[Student Project] Improved Image Captioning Based on the Google Image Captioning and Sequence to Sequence Attention
 
 This is repository of one of final undergraduate works of our student in UPF. This work addresses the challenge on improving the baseline of im2txt model of tensorflow with the attention mechanism. 
 
